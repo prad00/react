@@ -1,0 +1,56 @@
+{
+  "streams": [
+    {
+      "title": "new streaming",
+      "description": "straming..........",
+      "id": 1
+    },
+    {
+      "title": "second stream",
+      "description": "second stream............",
+      "id": 2
+    },
+    {
+      "title": "this is stream  by pradeep",
+      "description": "this is created by pradeep",
+      "id": 3
+    },
+    {
+      "formValues": {
+        "title": "last stream",
+        "description": "description"
+      },
+      "currentUserId": "101257462356870945542",
+      "id": 4
+    },
+    {
+      "title": "latest stream",
+      "description": "latest stream description",
+      "currentUserId": "101257462356870945542",
+      "id": 5
+    },
+    {
+      "title": "value4",
+      "description": "value4",
+      "currentUserId": "101257462356870945542",
+      "id": 10
+    },
+    {
+      "title": "programmatic navigation part 1",
+      "description": "programmatic navigation part 3",
+      "currentUserId": "101257462356870945542",
+      "id": 11
+    },
+    {
+      "title": "programmatic navigation part 2 part4",
+      "description": "programmatic navigation part 2",
+      "id": 12
+    },
+    {
+      "title": "newly created",
+      "description": "created by me",
+      "currentUserId": "101257462356870945542",
+      "id": 13
+    }
+  ]
+}
